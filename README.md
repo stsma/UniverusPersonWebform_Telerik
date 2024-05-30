@@ -12,7 +12,7 @@ https://github.com/stsma/UniverusPersonWebform_Telerik.git
 ### Project Setup ###
 After cloning the Project, go inside the project folder(as in the address bar of the image)
 
-<img src="https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/5f3fc06e-b8f7-409e-945d-dfab7b2fc30b" width="250">
+<img src="https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/5f3fc06e-b8f7-409e-945d-dfab7b2fc30b" width="300">
 
 Open the solution file (.sln) to Visual Studio and you should have the same structures as below:
 
