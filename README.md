@@ -11,7 +11,8 @@ https://github.com/stsma/UniverusPersonWebform_Telerik.git
 
 ### Project Setup ###
 After cloning the Project, go inside the project folder(as in the address bar of the image)
-<img src="ihttps://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/5f3fc06e-b8f7-409e-945d-dfab7b2fc30b" width="200">
+
+<img src="https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/5f3fc06e-b8f7-409e-945d-dfab7b2fc30b" width="200">
 
 Open the solution file (.sln) to Visual Studio and you should have the same structures as below:
 
@@ -19,9 +20,10 @@ Open the solution file (.sln) to Visual Studio and you should have the same stru
 
 ### Running the Project ###
 Right-click on the Solution and go to properties
-![image](https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/db0e1c28-d319-402e-8176-4cdeb37a8a7a)
+
+<img src="https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/db0e1c28-d319-402e-8176-4cdeb37a8a7a" width="200" >
 
 Select Multiple startup projects. Choose the **UniverusPersonAPI** and **FE_Telerik** projects then apply changes.
-![image](https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/2bccebb5-34c8-4d96-93fe-047e52632b1d)
+<img src="https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/2bccebb5-34c8-4d96-93fe-047e52632b1d" width="300">
 
 Clean and Build the project. Now you are ready to run it.
