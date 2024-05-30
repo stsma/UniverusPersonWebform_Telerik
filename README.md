@@ -27,3 +27,11 @@ Select Multiple startup projects. Choose the **UniverusPersonAPI** and **FE_Tele
 <img src="https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/2bccebb5-34c8-4d96-93fe-047e52632b1d" width="400">
 
 Clean and Build the project. Now you are ready to run it.
+
+
+### SAMPLE VIDEO ###
+
+![Alt Text]([[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif]](https://drive.google.com/file/d/1CQR_3ZVeIW6QoLwlCGqQyfVpNmk6Ct4V/view?usp=sharing))
+
+
+
