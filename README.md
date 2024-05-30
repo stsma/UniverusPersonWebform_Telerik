@@ -31,7 +31,8 @@ Clean and Build the project. Now you are ready to run it.
 
 ### SAMPLE VIDEO ###
 
-![Alt Text]([[https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif]](https://drive.google.com/file/d/1CQR_3ZVeIW6QoLwlCGqQyfVpNmk6Ct4V/view?usp=sharing))
+![univerus](https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/9547417b-1dce-4589-a394-89e75f442f65)
+
 
 
 
