@@ -14,6 +14,7 @@ After cloning the Project, go inside the project folder(as in the address bar of
 <ihttps://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/5f3fc06e-b8f7-409e-945d-dfab7b2fc30b|width:200)
 
 Open the solution file (.sln) to Visual Studio and you should have the same structures as below:
+
 <img src="https://github.com/stsma/UniverusPersonWebform_Telerik/assets/18629077/604aa5f5-25c9-46eb-987a-5d98ff2635ac" width="200">
 
 ### Running the Project ###
